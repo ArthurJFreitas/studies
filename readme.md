@@ -17,7 +17,7 @@
 - [x] Git/GitFlow
 
 
-### New/Need Improve
+### New/Needed Improve
 - [ ] CircleCI/Spinnaker
 - [ ] Create libraries 
 - [ ] Preloader images / Web Images 
