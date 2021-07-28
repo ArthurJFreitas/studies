@@ -6,7 +6,6 @@
 - [x] ReactJs
 - [x] React Native
 - [x] Node.js
-- [x] ReactJs
 - [x] Tailwind
 - [x] Redux
 - [x] NextJs
